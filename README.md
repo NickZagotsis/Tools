@@ -1,2 +1,2 @@
 # Tools
-A sort collection of tools 
+A short collection of tools 
